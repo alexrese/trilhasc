@@ -1,0 +1,11 @@
+#minha-img-estatica .carousel-inner{
+    background-color: black;
+}
+
+#minha-img-estatica .opacity:hover{
+    opacity: 0.9;
+}
+
+#minha-img-estatica .opacity{
+    opacity: 0.5;
+}
